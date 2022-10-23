@@ -66,7 +66,7 @@ if (mysqli_num_rows($query) > 0) {
                     <div class="nk-block-head-content">
                         <h3 class="nk-block-title page-title">Dashboard</h3>
                         <div class="nk-block-des text-soft">
-                            <p>Welcomes to G1 Smart Fleet Management.</p>
+                            <p>Welcome to G1 Smart Fleet Management.</p>
                         </div>
                     </div><!-- .nk-block-head-content -->
                 </div><!-- .nk-block-between -->
