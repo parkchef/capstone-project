@@ -3,7 +3,7 @@
 <div class="nk-footer">
     <div class="container-fluid">
         <div class="nk-footer-wrap">
-            <div class="nk-footer-copyright"> &copy; 2022 Fleet Management.</a>
+            <div class="nk-footer-copyright"> G1 Fleet Systems &copy; 2022 </a>
             </div>
         </div>
     </div>
